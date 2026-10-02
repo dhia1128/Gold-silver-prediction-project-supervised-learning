@@ -108,4 +108,3 @@ st.write(df.sample(5))
 
 # Footer
 st.markdown("---")
-st.write("Made with ❤️ for the workshop.")
